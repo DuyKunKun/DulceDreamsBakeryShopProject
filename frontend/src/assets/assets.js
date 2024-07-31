@@ -299,7 +299,7 @@ export const food_list = [
   },
   {
     _id: "21",
-    name: "Strawberry Croissants",
+    name: "Strawberry Croissant",
     image: food_21,
     price: 14,
     description:
@@ -308,7 +308,7 @@ export const food_list = [
   },
   {
     _id: "22",
-    name: "Chocolate Banana Croissants",
+    name: "Chocolate Banana Croissant",
     image: food_22,
     price: 22,
     description:
@@ -317,7 +317,7 @@ export const food_list = [
   },
   {
     _id: "23",
-    name: "Fruit Filled Croissants",
+    name: "Fruit Filled Croissant",
     image: food_23,
     price: 10,
     description:
@@ -344,7 +344,7 @@ export const food_list = [
   },
   {
     _id: "26",
-    name: "Matcha Mochi Croissants",
+    name: "Matcha Mochi Croissant",
     image: food_26,
     price: 18,
     description:

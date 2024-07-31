@@ -40,3 +40,28 @@
   font-size: max(1vw, 13px);
   border-radius: 50px;
 }
+
+@media (max-width : 750px) {
+
+  .header-contents {
+    max-width: 45%;
+    display: flex;
+  }
+
+}
+
+@media (max-width :750px) {
+  .header-contents {
+    max-width: 65%;
+    display: flex;
+  }
+
+  .header-contents p {
+    display: none;
+  }
+
+  .header-contents button {
+    padding: 2vw 4vw;
+    display: flex;
+  }
+}
